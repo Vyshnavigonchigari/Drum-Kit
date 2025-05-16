@@ -59,6 +59,11 @@
   
   /* Mobile responsiveness */
   @media (max-width: 600px) {
+
+    html {
+      background-image: url("Assets/Images/drumkitsm.png"); 
+    }
+
     .key {
       width: 6rem;
       padding: 0.8rem 0.4rem;
